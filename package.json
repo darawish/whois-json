@@ -16,7 +16,7 @@
     "change-case": "^3.0.2",
     "dedent-js": "^1.0.1",
     "html-entities": "^1.2.1",
-    "whois": "darawish/node-whois#v2.10.0"
+    "whois": "darawish/node-whois#master"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
